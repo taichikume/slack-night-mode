@@ -1,0 +1,14 @@
+.p-call_subtype {
+  border: 1px soild #424242;
+  background-color: $color-shade-darker;
+
+  &__footer {
+    border-top: 1px solid #424242;
+    background-color: #363636;
+  }
+
+  &__title,
+  &__description {
+    color: $base-font-color;
+  }
+}
