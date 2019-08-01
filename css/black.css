@@ -929,7 +929,7 @@
   .unread_msgs_loading { background: #222; background-image: none; }
   .p-call_subtype { border: 1px solid #424242; background-color: #222222; }
   .p-call_subtype__footer { border-top: 1px solid #424242; background-color: #363636; }
-  .p-call_subtype__title, .p-call_subtype__description, .p-call_subtype__status { color: #e6e6e6; }
+  .p-call_subtype__title, .p-call_subtype__description, .p-call_subtype__status { color: #e6e6e6 !important; }
   #col_flex { background: transparent; }
   #flex_contents { background: #222; }
   #flex_contents .heading { background: #151515; border-bottom-color: #363636; color: #949494; }
