@@ -1857,7 +1857,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .p-call_subtype__footer { border-top: 1px solid #424242; background-color: #363636; }
 
-.p-call_subtype__title, .p-call_subtype__description { color: #f0d9ed; }
+.p-call_subtype__title, .p-call_subtype__description .p-call_subtype__status { color: #f0d9ed; }
 
 #col_flex { background: transparent; }
 
