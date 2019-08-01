@@ -927,7 +927,7 @@
   .unread_empty_state_undo_action { color: #586e75; }
   .unread_empty_state_refresh { background: rgba(253, 246, 227, 0.97); }
   .unread_msgs_loading { background: #fdf6e3; background-image: none; }
-  .p-call_subtype { border: 1px soild #424242; background-color: #222222; }
+  .p-call_subtype { border: 1px solid #424242; background-color: #222222; }
   .p-call_subtype__footer { border-top: 1px solid #424242; background-color: #363636; }
   .p-call_subtype__title, .p-call_subtype__description { color: #586e75; }
   #col_flex { background: transparent; }

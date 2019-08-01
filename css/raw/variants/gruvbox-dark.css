@@ -1853,7 +1853,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #cc241d; }
 
 .unread_msgs_loading { background: #1d2021; background-image: none; }
 
-.p-call_subtype { border: 1px soild #424242; background-color: #222222; }
+.p-call_subtype { border: 1px solid #424242; background-color: #222222; }
 
 .p-call_subtype__footer { border-top: 1px solid #424242; background-color: #363636; }
 
