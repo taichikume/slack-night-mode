@@ -1,6 +1,5 @@
 @charset "UTF-8";
-@import "//cdn.jsdelivr.net/npm/yakuhanjp@3.0.0/dist/css/yakuhanjp.min.css";
-body { font-family: YakuHanJP,"Noto Sans Japanese","Hiragino Kaku Gothic ProN",-apple-system,BlinkMacSystemFont,"游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,sans-serif; background: #000; color: #00b9f2; }
+body { font-family: "Noto Sans Japanese","Hiragino Kaku Gothic ProN",-apple-system,BlinkMacSystemFont,"游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,sans-serif; background: #000; color: #00b9f2; }
 
 a { color: #1793d1; }
 
