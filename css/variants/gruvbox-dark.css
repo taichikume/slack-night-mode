@@ -1,5 +1,4 @@
-@charset "UTF-8";
-@-moz-document regexp("https://[^./]*\\.slack\\.com/(?!pricing)(?!security).*") { body { font-family: "Noto Sans Japanese","Hiragino Kaku Gothic ProN",-apple-system,BlinkMacSystemFont,"游ゴシック Medium",YuGothic,YuGothicM,メイリオ,Meiryo,sans-serif; background: #1d2021; color: #f9f5d7; }
+@-moz-document regexp("https://[^./]*\\.slack\\.com/(?!pricing)(?!security).*") { body { background: #1d2021; color: #f9f5d7; }
   a { color: #689d6a; }
   a:link, a:visited { color: #689d6a; }
   a:hover, a:active, a:focus { color: #cc241d; }
